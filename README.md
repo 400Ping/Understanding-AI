@@ -36,6 +36,7 @@
 
  ## Lab 8 Final
 
+ - [Report](./Final/AI-Final_Report.pdf)
  - [Code](./Final/Final.ipynb)
  - [Datasets](./Final/Student_performance_data%20_.csv)
 
